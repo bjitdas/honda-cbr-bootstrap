@@ -2,6 +2,12 @@
     background-color: #264653;
     ;
 }
+.btn-color{
+    color: white;
+    background-color: #E76F51;
+    border: 0;
+    
+}
 .featured-images{
     filter: grayscale(1);
 }
