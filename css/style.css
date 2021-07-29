@@ -1,3 +1,4 @@
+/* header section */
 .header-background{
     background-color: #264653;
     ;
@@ -8,6 +9,28 @@
     border: 0;
     
 }
+/* featured */
 .featured-images{
     filter: grayscale(1);
+}
+/* reviewer  img */
+.user-3-img{
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;   
+}
+.reviewer-name{
+    color: #23A6F0;
+}
+/* font awesome */
+.icons{
+    color: #E77C40;
+    -webkit-text-stroke-width: 5px;
+    -webkit-text-stroke-color: #E77C40;
+    
+}
+
+.icons-last{
+    color: #E77C40;
+    
 }
